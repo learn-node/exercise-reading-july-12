@@ -1,5 +1,5 @@
 function hello(name) {
-  const str = name || lab1
+  const str = name || 'lab1'
   return `Hello ${str}!`;
 }
 
